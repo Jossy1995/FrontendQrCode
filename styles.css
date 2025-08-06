@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+
+body {
+  
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400 700;
+  background-color: white;
+
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 0;
+ 
+}
+
+h1 {
+  font-size: 70px;
+}
+
+p {
+  font-size: 40px;
+  font-weight: 100;
+  width: 100%;
+  padding: 0;
+  
+}
+
+.img {
+  border-radius: 8%;
+  padding: 60px;
+}

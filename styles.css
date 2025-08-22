@@ -33,3 +33,20 @@ p {
   border-radius: 8%;
   padding: 60px;
 }
+
+
+
+/* Phones */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+
+/* Desktops  */
+@media (max-width: 1440px) {
+  body {
+    font-size: 20px;
+  }
+}
